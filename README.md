@@ -7,7 +7,7 @@ This is personal projects ive worked on and made,please enjoy it (legally and et
  ####################  Please note  ####################
 
 
- # Copyright © Guy Evenchen 2023
+ # Copyright © DarkPulse 2023 - 2024
 
 All rights reserved. This script is the intellectual property of Guy Evenchen (Known as DarkPulse) . You may use, modify, and distribute this script for educational and non-commercial purposes only. Any unauthorized use, reproduction, or distribution is strictly prohibited. Guy Evenchen assumes no responsibility for any damages or liabilities arising from the use of this script.
 
