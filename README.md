@@ -1,12 +1,11 @@
- ####################  Please note  ####################
+ \/\/\/\/\/\/\/\/\/\\/\/\/\/\/  Please note   \/\/\/\/\/\/\/\/\/\\/\/\/\/\/
 
 
 Hello fellow cybernaut! 👾😊
 
 This is my Portfolio in cyber security.
 
-This is personal projects i have worked on and made,please enjoy it (legally and ethically)
-
+This is personal projects i have worked on and made,please enjoy it! (legally and ethically)
 
 
  # Copyright © DarkPulse 2023 - 2024
@@ -16,4 +15,3 @@ All rights reserved. This script is the intellectual property of Guy Evenchen (K
 For inquiries, please contact [Guy Evenchen's LinkedIn](https://www.linkedin.com/in/guy-evenchen/).
 
 
- ####################  Please note  ####################
